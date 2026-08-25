@@ -28,6 +28,8 @@ is closed.** Built in the open in the sense that matters: you can see the progre
 file issues.
 
 - [Changelog](CHANGELOG.md)
+- [User Guide](docs/USER_GUIDE.md)
+- [Fleet Guide](docs/FLEET_GUIDE.md)
 - [Report an issue](../../issues)
 
 <sub>An AstroHub app — one port, many voyages.</sub>
